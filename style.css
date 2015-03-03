@@ -304,12 +304,4 @@
     background: #000;
     transform: rotate(-119deg);
     -webkit-transform: rotate(-119deg); 
-}
-
-br{
-    display: none;
-}
-span{
-    display: inline-block !important;
-    margin: 40px
-}
+} 
